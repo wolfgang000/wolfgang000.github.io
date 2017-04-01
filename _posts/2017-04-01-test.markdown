@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2016-12-02 21:17:27 -0400
+categories: jekyll update
+---
+Testhing will make you faster.
+
+
+### What is testing?
+
+### How was testing implemented?
+
+* Development loop
+
+Design
+Development
+Testing
+
+The 3 base element in every software development process at all scales are design, development and testing. Traditionally this loop
+has been applied in many different ways over the years and with, with resped to testing there are 3 fases: 
+
+# Fase 1: Manual testing
+
+Design
+Development
+Manual testing
+
+The base form of this loop is base in the manual testing of every feature that is been develop, this is the way all programmers
+learn to program, first we start with one idea o designs of what is the behavior we want to impement in or system, 
+write a code that fulfill that requirement and we test that manually that that requirement is fulfilled, if that is not the case we modify or code and test again, util we are satisfy with the result.
+
+
+### 
+
+### 
