@@ -6,15 +6,15 @@ layout: page
 title: About
 ---
 
-My name is Wolfgang Salazar, I work as a developer. I live in Maracaibo, Venezuela. I love making reliable and maintainable code, but over all making products that people love to use.
+My name is Wolfgang Salazar, I work as a developer. I live in Maracaibo, Venezuela. I love making reliable and maintainable code, but overall making products that people love to use.
 
 Here are some of my most recent projects:
 
- * **Neo-Trello** *(Status : "Work In Progress")*: A Trello clone made made with Python+Django in the backend, an Vue.js in the frontend. I made this project because I really like Trello and making a clone of it would be a really good way of practice my frontend skills, you can take a look to the source code [Backend](https://gitlab.com/wolfgangsalazarmora/neo-trello-backend), [Frontend](https://gitlab.com/wolfgangsalazarmora/neo-trello-frontend), you can also signup and start using it right away [Here](https://neo-trello.wsalazar.com.ve).
+ * **Neo-Trello** *(Status : "Work In Progress")*: A Trello clone made with Python+Django in the backend, and Vue.js in the frontend. I made this project because I really like Trello and making a clone of it would be a really good way of practice my frontend skills, you can take a look to the source code [Backend](https://gitlab.com/wolfgangsalazarmora/neo-trello-backend), [Frontend](https://gitlab.com/wolfgangsalazarmora/neo-trello-frontend), you can also signup and start using it right away [Here](https://neo-trello.wsalazar.com.ve).
 
- * **Todolisto** *(Status : "Complete")*: A todoapp made made with Python+Flask. I made this project to test the Google App Engine platform, It serves its purpose as a toy project to get some experience in google app engine platform but nothing more than that so it isn't very developed, source code [Here](https://github.com/wolfgang000/todolisto).
+ * **Todolisto** *(Status : "Complete")*: A todoapp made with Python+Flask. I made this project to test the Google App Engine platform, It serves its purpose as a toy project to get some experience in google app engine platform but nothing more than that so it isn't very developed, source code [Here](https://github.com/wolfgang000/todolisto).
 
- * **Wolfmusic** *(Status : "Abandoned")*: A spotify clone made made with Python+Django. In this projects I had the ambitious goal of making and music streaming app but I quickly realize immense scope of this goal and subsequently shut down the project, source code [Here](https://github.com/wolfgang000/wolfmusic).
+ * **Wolfmusic** *(Status : "Abandoned")*: A Spotify clone made with Python+Django. In this project I had the ambitious goal of making a music streaming app but I quickly realize the immense scope of this goal and subsequently shut down the project, source code [Here](https://github.com/wolfgang000/wolfmusic).
 
 #### Contact
 
