@@ -3,7 +3,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
+title: Wolfgang Salazar
 email: wolfgangsalazarmora@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -12,7 +12,9 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://wolfgang000.github.io/"
 twitter_username: jekyllrb
-github_username:  wolfgang000
+github_username: wolfgang000
+gitlab_username: wolfgangsalazarmora
+linkedin_username: wolfgang-salazar-914000112
 
 # Build settings
 markdown: kramdown
