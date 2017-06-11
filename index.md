@@ -14,7 +14,7 @@ Here are some of my most recent projects:
 
  * **Todolisto** *(Status : "Complete")*: A todoapp made made with Python+Flask. I made this project to test the Google App Engine platform, It serves its purpose as a toy project to get some experience in google app engine platform but nothing more than that so it isn't very developed, source code [Here](https://github.com/wolfgang000/todolisto).
 
- * **Wolfmusic** *(Status : "Abandoned")*: A spotify clone made made with Python+Django. In this projects I had the ambitious goal of making and music streaming app but I quickly realize immense scope of this goal and subsequently I  shut down the project, source code [Here](https://github.com/wolfgang000/wolfmusic).
+ * **Wolfmusic** *(Status : "Abandoned")*: A spotify clone made made with Python+Django. In this projects I had the ambitious goal of making and music streaming app but I quickly realize immense scope of this goal and subsequently shut down the project, source code [Here](https://github.com/wolfgang000/wolfmusic).
 
 #### Contact
 
