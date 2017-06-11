@@ -10,7 +10,7 @@ My name is Wolfgang Salazar, I work as a developer. I live in Maracaibo, Venezue
 
 Here are some of my most recent projects:
 
- * **Neo-Trello** *(Status : "Work In Progress")*: A Trello clone made made with Python+Django in the backend, an Vue.js in the frontend. I made this project because I really like Trello and making a clone of it would be a really good way of practice my frontend skills, you can take a look of the source code [Backend](https://gitlab.com/wolfgangsalazarmora/neo-trello-backend), [Frontend](https://gitlab.com/wolfgangsalazarmora/neo-trello-frontend), you can also signup and start using it right away [Here](https://neo-trello.wsalazar.com.ve).
+ * **Neo-Trello** *(Status : "Work In Progress")*: A Trello clone made made with Python+Django in the backend, an Vue.js in the frontend. I made this project because I really like Trello and making a clone of it would be a really good way of practice my frontend skills, you can take a look to the source code [Backend](https://gitlab.com/wolfgangsalazarmora/neo-trello-backend), [Frontend](https://gitlab.com/wolfgangsalazarmora/neo-trello-frontend), you can also signup and start using it right away [Here](https://neo-trello.wsalazar.com.ve).
 
  * **Todolisto** *(Status : "Complete")*: A todoapp made made with Python+Flask. I made this project to test the Google App Engine platform, It serves its purpose as a toy project to get some experience in google app engine platform but nothing more than that so it isn't very developed, source code [Here](https://github.com/wolfgang000/todolisto).
 
