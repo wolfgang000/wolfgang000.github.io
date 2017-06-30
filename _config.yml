@@ -16,6 +16,9 @@ github_username: wolfgang000
 gitlab_username: wolfgangsalazarmora
 linkedin_username: wolfgang-salazar-914000112
 
+# Google services
+google_analytics: UA-101181553-2
+
 # Build settings
 markdown: kramdown
 theme: minima
