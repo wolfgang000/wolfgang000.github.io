@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Testing is important(not final title)"
+title:  "Stop coding, Start testing(not final title)"
 date:   2016-12-02 21:17:27 -0400
 categories: jekyll update
 ---
@@ -27,9 +27,10 @@ Development
 Manual testing
 
 The base form of this loop is base in the manual testing of every feature that is been develop, this is the way all programmers
-learn to program, first we start with one idea o designs of what is the behavior we want to impement in or system, 
-write a code that fulfill that requirement and we test that manually that that requirement is fulfilled, if that is not the case we modify or code and test again, util we are satisfy with the result. This process is simple and work pretty well in very small system but as the system grows and the number of features increases testing every part of the system, so this lead to skip old test 
-and only test new parts of the system, this introduce a problem because every time you change a some part of the system there is the possibility of to change some already tested behavior, and the only way to know this
+learn to program, first we start with an idea or design of what is the feature or behavior we want to impement in or system, write the code that fulfill that requirement and we test that manually that that requirement is fulfilled, if that is not the case we modify or code and test again, util we are satisfy with the result. This process is simple and work pretty well in very small system but as the system grows and the number of features increases testing every part of the system, so this lead to skip old test 
+and only test new parts of the system, this introduce a problem because every time you change some part of the system there is the possibility of breaking some already tested part of the system, and the only way to know this to test all the system with every time its changes, this proses is very expensive and time consuming so most of the time this was and still is outsourced to contries like india and china.
+
+Some companies doesn't bother with testing already implemented features or doesn't have the resources to make a full test to the system with every change so the relase the system regardless the bug or problems it may have, using the end user as a tester to reduce cost, normally free with the beta
 
 
 ### 
